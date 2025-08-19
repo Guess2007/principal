@@ -1,0 +1,6 @@
+Inicio
+  Int: num1, num2, num3. num4, num5, d1, d2, d3, d4, d5
+  Escribir ¨registre su edad¨
+     Leer ¨edad¨
+     Si ¨edad¨ <= num1 && ¨edad¨ >= num4 entonces
+         Escribir ¨Usted pertenece a la seccion A¨
